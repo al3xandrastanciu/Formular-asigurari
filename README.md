@@ -30,7 +30,7 @@ Pentru a rula proiectul local, asigurați-vă că aveți instalat:
   -Pachetul de dezvoltare .NET (corespunzător versiunii proiectului).
 
 Instrucțiuni:
-  -Clonați repository-ul: `git clone https://github.com/al3xandrastanciu/Formular-asigurari/tree/main/Formular`
+  -Clonați repository-ul: `git clone https://github.com/al3xandrastanciu/Formular-asigurari`
   -Deschideți fișierul `.sln` în Visual Studio.
   -Asigurați-vă că Baza de Date este configurată corect.
   -Apăsați `F5` pentru a rula aplicația.
